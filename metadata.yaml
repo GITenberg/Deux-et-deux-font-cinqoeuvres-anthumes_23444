@@ -1,0 +1,33 @@
+_repo: Deux-et-deux-font-cinqoeuvres-anthumes_23444
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Allais, Alphonse
+    birthdate: 1854
+    deathdate: 1905
+    gutenberg_agent_id: '5240'
+    url: http://www.gutenberg.org/2009/agents/5240
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Alphonse_Allais
+    - http://en.wikipedia.org/wiki/Alphonse_Allais
+description: ''
+gutenberg_bookshelf: FR Humour
+gutenberg_issued: '2007-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23444'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Short stories, French'
+- !lcsh 'Humorous stories'
+title: 'Deux et deux font cinq
+
+  oeuvres anthumes'
+url: http://www.gutenberg.org/ebooks/23444
